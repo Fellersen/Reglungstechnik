@@ -7,5 +7,5 @@ def addieren(a: int, b: int) -> int:
 
 
 if __name__ == '__main__':
-    print("Hello World")
-    print(addieren(a=1, b=2))
+    print("Hello World! Marco")
+    print(addieren(a=1, b=9))
